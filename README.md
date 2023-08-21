@@ -2,24 +2,22 @@
 # HelpingHands
 HelpingHands is a web application that connects donors with people in need. Built using Next.js, Express, and MongoDB Atlas, it enables donors to fill out a form and share their location, and uses geolocation to match them with nearby volunteers. The application also includes a payment gateway using Razorpay for secure online donations(payment gateway KYC is under test mode so for now UPI QR is shown).
 
-![Home](https://github.com/isubhamsingh/HelpingHands/assets/90370535/2ac06b21-a10b-4b62-b0db-3e020a996f1c)
+
 
 # Features
 
 Join Us as Volunteer, Donor, or needy.
-![signUp](https://github.com/isubhamsingh/HelpingHands/assets/90370535/afd75e80-feda-4bfb-890c-d27ab8dcabd8)
+
 
 Easy-to-use form for donors to fill out
-![providehelp](https://github.com/isubhamsingh/HelpingHands/assets/90370535/7582e92e-a50c-4dbc-888f-ef47e8c56b5c)
 
-![donate cloth](https://github.com/isubhamsingh/HelpingHands/assets/90370535/ff01981d-b51f-464b-9054-b153e6fe58d3)
 
 
 
 Geolocation to match donors with nearby volunteers
 <br/>
 Nodemailer to send email notifications with donor locations to volunteers
-![email](https://github.com/isubhamsingh/HelpingHands/assets/90370535/c73057eb-2286-4ee5-b698-08fe93e00f9e)
+
 
 
 # Getting started
@@ -56,5 +54,4 @@ If you would like to contribute to the development of HelpingHands, please follo
   
 
   
-# Credits
-HelpingHands was developed by Subham and Shekhar in 2023 as a part of their summer term project.
+
